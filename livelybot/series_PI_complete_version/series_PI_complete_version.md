@@ -34,12 +34,12 @@
 |必备|XT 30 (2+2)线材| ![image](/livelybot/series_PI_complete_version/images/XT30(2+2)_data_cable.png) |1个|
 |必备|EVA包装内胆| ![image](/livelybot/series_PI_complete_version/images/EVA_packaging_inlay.png) |1套|
 |必备|包装纸箱| ![image](/livelybot/series_PI_complete_version/images/packaging_carton.png) |1套|
-|必备|内六角扳手|  |2把|
+|必备|内六角扳手| ![image](/livelybot/series_PI_complete_version/images/hex_key_screwdriver.png) |2把|
 |必备|拉杆行李箱|  |1个|
 
 ## 3. 机器人初始位姿与姿态矫正
 ### 3.1 机器人初始位姿说明：
-![image](/livelybot/series_PI_complete_version/images/initial_pose.png) 
+![image](/livelybot/series_PI_complete_version/images/INITIAL_pose.png) 
 ### 3.2 机器人姿态矫正：
 - “零位支架”带标识箭头朝前；
 - 将机器人按照上述四个步骤确认好使用前的位姿；
@@ -187,3 +187,4 @@ IMU的外置接口：右边的Type-C接口是IMU的外置接口
 | 错误状态 | ![image](/livelybot/series_PI_complete_version/images/ERROR.png) | 当机器人检测到有电机未连接等情况时，会显示错误状态。需要检查关节通信正常后稍等片刻自动恢复 |
 
 到这里，相信您已经掌握了强化学习控制程序的基本使用方法，您可以尽情的驾驭您的机器人了，感谢对高擎机电产品的支持，祝您工作愉快！
+
